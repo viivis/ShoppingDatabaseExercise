@@ -1,0 +1,14 @@
+C:\Users\Laptop\Desktop\ShopDatabase-master\ShopDatabase\obj\Debug\ShopDatabase.csprojAssemblyReference.cache
+C:\Users\Laptop\Desktop\ShopDatabase-master\ShopDatabase\obj\Debug\ShopDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\source\repos\ShopDatabase-master\ShopDatabase\bin\Debug\ShopDatabase.exe.config
+C:\Users\Laptop\source\repos\ShopDatabase-master\ShopDatabase\bin\Debug\ShopDatabase.exe
+C:\Users\Laptop\source\repos\ShopDatabase-master\ShopDatabase\bin\Debug\ShopDatabase.pdb
+C:\Users\Laptop\source\repos\ShopDatabase-master\ShopDatabase\bin\Debug\EntityFramework.dll
+C:\Users\Laptop\source\repos\ShopDatabase-master\ShopDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Laptop\source\repos\ShopDatabase-master\ShopDatabase\bin\Debug\EntityFramework.xml
+C:\Users\Laptop\source\repos\ShopDatabase-master\ShopDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Laptop\source\repos\ShopDatabase-master\ShopDatabase\obj\Debug\ShopDatabase.csprojAssemblyReference.cache
+C:\Users\Laptop\source\repos\ShopDatabase-master\ShopDatabase\obj\Debug\ShopDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\source\repos\ShopDatabase-master\ShopDatabase\obj\Debug\ShopDatabase.csproj.CopyComplete
+C:\Users\Laptop\source\repos\ShopDatabase-master\ShopDatabase\obj\Debug\ShopDatabase.exe
+C:\Users\Laptop\source\repos\ShopDatabase-master\ShopDatabase\obj\Debug\ShopDatabase.pdb
